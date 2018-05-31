@@ -1,0 +1,24 @@
+{
+  "name": "generator-web",
+  "version": "0.0.1",
+  "description": "Generator band website",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "punk",
+    "rock",
+    "band",
+    "react",
+    "nextjs"
+  ],
+  "author": "rodrigo2604",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^6.0.3",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0"
+  }
+}
